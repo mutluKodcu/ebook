@@ -1,2 +1,1 @@
-# ebook
-Mutluluğa giden yolda okunası güzel şeyler..
+# ebook okunası güzel şeyler..
